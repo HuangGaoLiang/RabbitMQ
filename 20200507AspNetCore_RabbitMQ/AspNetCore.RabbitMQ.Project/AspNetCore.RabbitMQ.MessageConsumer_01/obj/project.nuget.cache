@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6baHBba3y73KSNfa4XX03AGwl4ZWWcdIPVtflZZ0TjGnsfzPRI6Ov0tlAcumXWCSqvl4b5/JYkcP2IaLZEwUSA==",
+  "success": true,
+  "projectFilePath": "D:\\zhaoxiEDU\\PublicClass2020\\zhaoxi-RabbitMQ\\20200507AspNetCore_RabbitMQ\\AspNetCore.RabbitMQ.Project\\AspNetCore.RabbitMQ.MessageConsumer_01\\AspNetCore.RabbitMQ.MessageConsumer_01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Richard\\.nuget\\packages\\rabbitmq.client\\6.0.0\\rabbitmq.client.6.0.0.nupkg.sha512",
+    "C:\\Users\\Richard\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

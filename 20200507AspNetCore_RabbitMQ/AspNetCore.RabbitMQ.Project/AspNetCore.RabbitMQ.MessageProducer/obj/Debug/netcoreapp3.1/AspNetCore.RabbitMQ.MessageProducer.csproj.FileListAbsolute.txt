@@ -1,0 +1,14 @@
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-RabbitMQ\20200507AspNetCore_RabbitMQ\AspNetCore.RabbitMQ.Project\AspNetCore.RabbitMQ.MessageProducer\bin\Debug\netcoreapp3.1\AspNetCore.RabbitMQ.MessageProducer.exe
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-RabbitMQ\20200507AspNetCore_RabbitMQ\AspNetCore.RabbitMQ.Project\AspNetCore.RabbitMQ.MessageProducer\bin\Debug\netcoreapp3.1\AspNetCore.RabbitMQ.MessageProducer.deps.json
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-RabbitMQ\20200507AspNetCore_RabbitMQ\AspNetCore.RabbitMQ.Project\AspNetCore.RabbitMQ.MessageProducer\bin\Debug\netcoreapp3.1\AspNetCore.RabbitMQ.MessageProducer.runtimeconfig.json
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-RabbitMQ\20200507AspNetCore_RabbitMQ\AspNetCore.RabbitMQ.Project\AspNetCore.RabbitMQ.MessageProducer\bin\Debug\netcoreapp3.1\AspNetCore.RabbitMQ.MessageProducer.runtimeconfig.dev.json
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-RabbitMQ\20200507AspNetCore_RabbitMQ\AspNetCore.RabbitMQ.Project\AspNetCore.RabbitMQ.MessageProducer\bin\Debug\netcoreapp3.1\AspNetCore.RabbitMQ.MessageProducer.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-RabbitMQ\20200507AspNetCore_RabbitMQ\AspNetCore.RabbitMQ.Project\AspNetCore.RabbitMQ.MessageProducer\bin\Debug\netcoreapp3.1\AspNetCore.RabbitMQ.MessageProducer.pdb
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-RabbitMQ\20200507AspNetCore_RabbitMQ\AspNetCore.RabbitMQ.Project\AspNetCore.RabbitMQ.MessageProducer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-RabbitMQ\20200507AspNetCore_RabbitMQ\AspNetCore.RabbitMQ.Project\AspNetCore.RabbitMQ.MessageProducer\obj\Debug\netcoreapp3.1\AspNetCore.RabbitMQ.MessageProducer.csproj.CoreCompileInputs.cache
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-RabbitMQ\20200507AspNetCore_RabbitMQ\AspNetCore.RabbitMQ.Project\AspNetCore.RabbitMQ.MessageProducer\obj\Debug\netcoreapp3.1\AspNetCore.RabbitMQ.MessageProducer.AssemblyInfoInputs.cache
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-RabbitMQ\20200507AspNetCore_RabbitMQ\AspNetCore.RabbitMQ.Project\AspNetCore.RabbitMQ.MessageProducer\obj\Debug\netcoreapp3.1\AspNetCore.RabbitMQ.MessageProducer.AssemblyInfo.cs
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-RabbitMQ\20200507AspNetCore_RabbitMQ\AspNetCore.RabbitMQ.Project\AspNetCore.RabbitMQ.MessageProducer\obj\Debug\netcoreapp3.1\AspNetCore.RabbitMQ.MessageProducer.csproj.CopyComplete
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-RabbitMQ\20200507AspNetCore_RabbitMQ\AspNetCore.RabbitMQ.Project\AspNetCore.RabbitMQ.MessageProducer\obj\Debug\netcoreapp3.1\AspNetCore.RabbitMQ.MessageProducer.dll
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-RabbitMQ\20200507AspNetCore_RabbitMQ\AspNetCore.RabbitMQ.Project\AspNetCore.RabbitMQ.MessageProducer\obj\Debug\netcoreapp3.1\AspNetCore.RabbitMQ.MessageProducer.pdb
+D:\zhaoxiEDU\PublicClass2020\zhaoxi-RabbitMQ\20200507AspNetCore_RabbitMQ\AspNetCore.RabbitMQ.Project\AspNetCore.RabbitMQ.MessageProducer\obj\Debug\netcoreapp3.1\AspNetCore.RabbitMQ.MessageProducer.genruntimeconfig.cache
